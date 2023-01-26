@@ -1,3 +1,2 @@
-# predictive-coding
-Inspired by https://github.com/rufinv/Illusory-Contour-Predictive-Networks
-Application of the network on 3D cube illusion
+#3D cube illusion predictive-coding
+Application of the predictive coding neural network on the 3D cube illusion inspired by https://github.com/rufinv/Illusory-Contour-Predictive-Networks
